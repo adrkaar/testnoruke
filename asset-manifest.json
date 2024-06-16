@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/testnoruke/static/css/main.7b82b1e4.css",
-    "main.js": "/testnoruke/static/js/main.896eca73.js",
-    "static/js/453.8df24388.chunk.js": "/testnoruke/static/js/453.8df24388.chunk.js",
-    "static/media/gauteprofil.jpg": "/testnoruke/static/media/gauteprofil.51c50a28dfc5b3b1a1b5.jpg",
-    "index.html": "/testnoruke/index.html",
-    "main.7b82b1e4.css.map": "/testnoruke/static/css/main.7b82b1e4.css.map",
-    "main.896eca73.js.map": "/testnoruke/static/js/main.896eca73.js.map",
-    "453.8df24388.chunk.js.map": "/testnoruke/static/js/453.8df24388.chunk.js.map"
+    "main.css": "/static/css/main.7b82b1e4.css",
+    "main.js": "/static/js/main.630c59b2.js",
+    "static/js/453.8df24388.chunk.js": "/static/js/453.8df24388.chunk.js",
+    "static/media/gauteprofil.jpg": "/static/media/gauteprofil.51c50a28dfc5b3b1a1b5.jpg",
+    "index.html": "/index.html",
+    "main.7b82b1e4.css.map": "/static/css/main.7b82b1e4.css.map",
+    "main.630c59b2.js.map": "/static/js/main.630c59b2.js.map",
+    "453.8df24388.chunk.js.map": "/static/js/453.8df24388.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b82b1e4.css",
-    "static/js/main.896eca73.js"
+    "static/js/main.630c59b2.js"
   ]
 }
